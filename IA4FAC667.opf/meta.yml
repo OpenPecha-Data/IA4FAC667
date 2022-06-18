@@ -1,0 +1,39 @@
+id: IA4FAC667
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:30:10.177261'
+last_modified: '2022-06-19T04:30:10.177274'
+parser: null
+source_metadata:
+  title: Hagiography of Ngor mkhan chen Khang gsar dam pa rin po che Ngag dbang blo
+    gros gzhan phan snying po (1876–1952/53); Lamdre Lobshe, vol. nya, title no. 4
+  author: gdong thog bstan pai rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-09); no pagination, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/584
+  bases:
+    b430:
+      title: Hagiography of Ngor mkhan chen Khang gsar dam pa rin po che Ngag dbang
+        blo gros gzhan phan snying po (1876–1952/53); Lamdre Lobshe, vol. nya, title
+        no. 4
+      order: 1
+      base_file: b430.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
